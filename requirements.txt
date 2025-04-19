@@ -4,7 +4,7 @@ matplotlib==3.5.1
 numpy==1.20.3
 Pillow==8.4.0
 PyQt5==5.15.6
-scipy==1.7.3
+scipy==1.11.4
 sounddevice==0.4.3
 SoundFile==0.10.3.post1
 tqdm==4.62.3
